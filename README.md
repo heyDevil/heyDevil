@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Web Development Projects<br><br>🤝 I’m looking to collaborate on Open Source Projects<br><br>🌱 I’m currently learning JavaScript, React, REST API and .NET Framework<br><br>💬 Ask me about HTML, CSS, JavaScript, GitHub<br><br>⚡ Fun fact: I enjoy building websites and learning new technologies
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/about.avneesh) 
 
